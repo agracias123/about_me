@@ -1,0 +1,60 @@
+
+.favorite-sport {
+     color: red;
+}
+
+ h1 {
+    text-align: center;
+font-size: 500%;
+    color: #00ff00;
+}
+h2 {
+    text-align: center;
+font-size: 250%;
+    color:#0066FF;
+    border: 40px; groove green;
+}
+h3{
+    text-align: center;
+}
+
+ .favoritewintersport {
+    color: red;
+}
+
+
+
+.favorite-game-picture {
+    height: 200px;
+    width: 250px;
+}
+
+li {
+    border: 40px groove #00ff00;
+    width: 350px;
+}
+
+.favorite-game {
+    color: red;
+}
+
+img. {
+    border: solid orange;
+    margin: 240px;
+    padding: 140px;
+}
+
+a {
+    width: 250px;
+    height: 25px;
+    background-color: blue;
+    padding: 15px;
+    border: 1px red groove;
+}
+body{
+background-image: url(http://www.stc-chicago.com/wp-content/uploads/2011/12/Chicago-skyline-illinois.jpg);
+background-size:  2000px
+text-align: center;
+
+}
+
